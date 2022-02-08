@@ -1,0 +1,5 @@
+INPUT
+sars data/stars/one-star.csv
+OUTPUT
+ERROR:
+END
