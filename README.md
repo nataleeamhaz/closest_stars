@@ -2,7 +2,6 @@
 To run on the command line use:
 `./run`
 
-This won't do anything until you implement your naive REPL!
 
 I used object oriented programming to split my project into reasonable parts.
 In main, I have objects of a CSV reader, which I use to read the CSV file
